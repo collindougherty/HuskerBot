@@ -8,4 +8,4 @@ RT_HANDLES = ["HuskerFBNation", "Huskers", "Nebraska247", "EvanBlandOWH", "HailV
                 "Hillustrated", "HuskersWBB", "damonbenning", "HuskGuys", "GarySharp1620", "NEB_Recruiting",
                 "RhondaRevelle", "dirkchatelain", "MikelSevere", "JohnBishop71"]
 
-MAX_TWEETS = 1
+MAX_TWEETS = 100
