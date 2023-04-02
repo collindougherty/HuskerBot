@@ -1,5 +1,5 @@
 RT_HANDLES = ["HuskerFBNation", "Huskers", "Nebraska247", "EvanBlandOWH", "HailVarsity", 
-              "SharpeGreg", "HuskerOnline", "swmckewonOWH", "MDBabs", "RobinWashut", "ParkerJGabriel",
+              "SharpeGreg", "HuskerOnline", "swmckewonOWH", "MDBabs", "RobinWashut",
                 "tomshatelOWH", "GBRosenthal", "michaelbruntz", "Huskermax", "ChrisBasnettLJS", "bmclaughlin4",
                 "mitchsherman", "steven_sipple", "Matt_Davison", "OWHhuskers", "Sean_Callahan",
                 "ericolson64", "huskerextra", "CoachMattRhule", "park_neb", "HuskersNAPL", "arbitanalytics"
